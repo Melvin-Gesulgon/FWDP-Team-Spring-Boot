@@ -1,0 +1,813 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:04b19
+FamilyName:04b_19
+StyleName:Regular
+FullName:04b_19
+MenuName:04b_19
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\04b\04B_19__.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:6632
+FileModTime:1099393456
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,04b_19
+NameArray:0,Win,1,04b_19
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\04b\about.gif
+FileModTime:989321810
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\OFL-LICENSE
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Syne-Bold
+FamilyName:Syne
+StyleName:Bold
+FullName:Syne Bold
+MenuName:Syne
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\OTF\Syne-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128068
+FileModTime:1530862702
+WeightClass:700
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,Syne Bold
+NameArray:0,Win,1,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Syne-Extra
+FamilyName:Syne
+StyleName:Extra
+FullName:Syne Extra
+MenuName:Syne Extra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\OTF\Syne-Extra.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101972
+FileModTime:1530862702
+WeightClass:900
+WidthClass:9
+AngleClass:0
+NameArray:0,Mac,4,Syne Extra
+NameArray:0,Win,1,Syne Extra
+NameArray:0,Win,16,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Syne-Italic
+FamilyName:Syne
+StyleName:Italic
+FullName:Syne Italic
+MenuName:Syne
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\OTF\Syne-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:444464
+FileModTime:1530862702
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Syne Italic
+NameArray:0,Win,1,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Syne-Mono
+FamilyName:Syne
+StyleName:Mono
+FullName:Syne Mono
+MenuName:Syne Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\OTF\Syne-Mono.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56716
+FileModTime:1530862702
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Syne Mono
+NameArray:0,Win,1,Syne Mono
+NameArray:0,Win,16,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Syne-Regular
+FamilyName:Syne
+StyleName:Regular
+FullName:Syne Regular
+MenuName:Syne
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\OTF\Syne-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128328
+FileModTime:1530862702
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Syne Regular
+NameArray:0,Win,1,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\README.md
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Syne-Bold
+FamilyName:Syne
+StyleName:Bold
+FullName:Syne Bold
+MenuName:Syne
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\TTF\Syne-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66356
+FileModTime:1530862702
+WeightClass:700
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,Syne Bold
+NameArray:0,Win,1,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Syne-Extra
+FamilyName:Syne
+StyleName:Extra
+FullName:Syne Extra
+MenuName:Syne Extra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\TTF\Syne-Extra.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70516
+FileModTime:1530862702
+WeightClass:900
+WidthClass:9
+AngleClass:0
+NameArray:0,Mac,4,Syne Extra
+NameArray:0,Win,1,Syne Extra
+NameArray:0,Win,16,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Syne-Italic
+FamilyName:Syne
+StyleName:Italic
+FullName:Syne Italic
+MenuName:Syne
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\TTF\Syne-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:129384
+FileModTime:1530862702
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Syne Italic
+NameArray:0,Win,1,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Syne-Mono
+FamilyName:Syne
+StyleName:Mono
+FullName:Syne Mono
+MenuName:Syne Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\TTF\Syne-Mono.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57256
+FileModTime:1530862702
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Syne Mono
+NameArray:0,Win,1,Syne Mono
+NameArray:0,Win,16,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Syne-Regular
+FamilyName:Syne
+StyleName:Regular
+FullName:Syne Regular
+MenuName:Syne
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\TTF\Syne-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64468
+FileModTime:1530862702
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Syne Regular
+NameArray:0,Win,1,Syne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Bold.eot
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Bold.woff
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Bold.woff2
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Extra.eot
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Extra.woff
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Extra.woff2
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Italic.eot
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Italic.woff
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Italic.woff2
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Mono.eot
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Mono.woff
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Mono.woff2
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Regular.eot
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Regular.woff
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\syne\Webfonts\Syne-Regular.woff2
+FileModTime:1530862702
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\OFL.txt
+FileModTime:1569945600
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-Black
+FamilyName:Tomorrow
+StyleName:Black
+FullName:Tomorrow Black
+MenuName:Tomorrow Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53056
+FileModTime:1569945600
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow Black
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-BlackItalic
+FamilyName:Tomorrow
+StyleName:Black Italic
+FullName:Tomorrow Black Italic
+MenuName:Tomorrow Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56516
+FileModTime:1569945600
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow Black
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-Bold
+FamilyName:Tomorrow
+StyleName:Bold
+FullName:Tomorrow Bold
+MenuName:Tomorrow
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56628
+FileModTime:1569945600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-BoldItalic
+FamilyName:Tomorrow
+StyleName:Bold Italic
+FullName:Tomorrow Bold Italic
+MenuName:Tomorrow
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59636
+FileModTime:1569945600
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-ExtraBold
+FamilyName:Tomorrow
+StyleName:ExtraBold
+FullName:Tomorrow ExtraBold
+MenuName:Tomorrow ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57532
+FileModTime:1569945600
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow ExtraBold
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-ExtraBoldItalic
+FamilyName:Tomorrow
+StyleName:ExtraBold Italic
+FullName:Tomorrow ExtraBold Italic
+MenuName:Tomorrow ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60664
+FileModTime:1569945600
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow ExtraBold
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-ExtraLight
+FamilyName:Tomorrow
+StyleName:ExtraLight
+FullName:Tomorrow ExtraLight
+MenuName:Tomorrow ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57604
+FileModTime:1569945600
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow ExtraLight
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-ExtraLightItalic
+FamilyName:Tomorrow
+StyleName:ExtraLight Italic
+FullName:Tomorrow ExtraLight Italic
+MenuName:Tomorrow ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59640
+FileModTime:1569945600
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow ExtraLight
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-Italic
+FamilyName:Tomorrow
+StyleName:Italic
+FullName:Tomorrow Italic
+MenuName:Tomorrow
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59240
+FileModTime:1569945600
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-Light
+FamilyName:Tomorrow
+StyleName:Light
+FullName:Tomorrow Light
+MenuName:Tomorrow Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57632
+FileModTime:1569945600
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow Light
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-LightItalic
+FamilyName:Tomorrow
+StyleName:Light Italic
+FullName:Tomorrow Light Italic
+MenuName:Tomorrow Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59664
+FileModTime:1569945600
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow Light
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-Medium
+FamilyName:Tomorrow
+StyleName:Medium
+FullName:Tomorrow Medium
+MenuName:Tomorrow Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56896
+FileModTime:1569945600
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow Medium
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-MediumItalic
+FamilyName:Tomorrow
+StyleName:Medium Italic
+FullName:Tomorrow Medium Italic
+MenuName:Tomorrow Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58852
+FileModTime:1569945600
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow Medium
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-Regular
+FamilyName:Tomorrow
+StyleName:Regular
+FullName:Tomorrow Regular
+MenuName:Tomorrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57388
+FileModTime:1569945600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-SemiBold
+FamilyName:Tomorrow
+StyleName:SemiBold
+FullName:Tomorrow SemiBold
+MenuName:Tomorrow SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57512
+FileModTime:1569945600
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow SemiBold
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-SemiBoldItalic
+FamilyName:Tomorrow
+StyleName:SemiBold Italic
+FullName:Tomorrow SemiBold Italic
+MenuName:Tomorrow SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59760
+FileModTime:1569945600
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow SemiBold
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-Thin
+FamilyName:Tomorrow
+StyleName:Thin
+FullName:Tomorrow Thin
+MenuName:Tomorrow Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55592
+FileModTime:1569945600
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Tomorrow Thin
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Tomorrow-ThinItalic
+FamilyName:Tomorrow
+StyleName:Thin Italic
+FullName:Tomorrow Thin Italic
+MenuName:Tomorrow Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\FWDP\Font\tomorrow\Tomorrow-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58744
+FileModTime:1569945600
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Tomorrow Thin
+NameArray:0,Win,16,Tomorrow
+%EndFont
+
